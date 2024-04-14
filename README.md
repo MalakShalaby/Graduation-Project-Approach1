@@ -1,5 +1,5 @@
 # Project Title: AI-Enhanced Breast Cancer Recurrence Prediction, Metastasis Localization, and Image Interpretation: A Multi-Modal analysis
-hi shahouza
+
 # Description:
 Our project aims to develop predictive models for predicting breast cancer recurrence using machine learning techniques. Breast cancer recurrence, where cancer returns after treatment, is a significant concern in patient care and requires timely intervention for better outcomes. Leveraging diverse datasets, including the Metabric Breast Cancer dataset, Duke University Breast Cancer dataset, and MSK Breast Cancer dataset, our models are trained to accurately predict the likelihood of breast cancer recurrence based on various features and characteristics.
 
